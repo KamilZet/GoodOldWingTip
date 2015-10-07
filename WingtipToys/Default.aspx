@@ -2,10 +2,8 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
         <h1><%: Title %>.</h1>
-        <h2>Wingtip Toys can help you find the perfect gift.</h2>
-        <p class="lead">We're all about transportation toys. You can order 
-                any of our toys today. Each toy listing has detailed 
-                information to help you choose the right toy.</p>
-        <p>Moje pare stringów na gÓÓÓwną</p>
+        <h2>Serwis powstaje jako wyraz niesienia pomocy skonfudowanym użytkownikowm Spaceman, w konkurencji do niezawsze przychylnych reakcji do korzystania grupy email MS Community</h2>
+        <p class="lead">Bierzcie, piszcie, czytajcie, oto wiedza nasza</p>
+        <p align="center">~ Kamil Zień</p>
 
 </asp:Content>
